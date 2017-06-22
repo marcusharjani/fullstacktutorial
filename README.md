@@ -1,17 +1,17 @@
-#hello world!
+# hello world!
 
 
 
 
-###Your journey to developing begins here.
+### Your journey to developing begins here.
 
 
-##Day 1:
+## Day 1:
 
 Today we set ourselves up with the basic tools used in developing of all sorts. 
 
 
-###First
+### First
 We learned that developing has three fundamental tools upon which all our work depends:
 
 
@@ -24,7 +24,7 @@ We learned that developing has three fundamental tools upon which all our work d
 * [SourceTree](https://www.sourcetreeapp.com/) - Graphical Source Control
 
 
-###Second
+### Second
 We learned some basic comand line commands. 
 
 ```
@@ -53,10 +53,10 @@ $python -V
 This command prints (or shows in on the command line) the current version of Python installed on our computer.
 
 
-###Third
+### Third
 We learned that using BitBucket, we created a repository that lives in the cloud. Using Source Tree, we cloned that repository to our local machine - a fancy way of saying that we essentially copied that folder to our computer.  We opened that repository with Sublime Text (our text editor) and created a couple of folders and this README. After doing so, our new file appeared in source tree and we sent it up to the cloud through a process we will learn a lot more about later - called commit and push. 
 
 
-###Fourth
+### Fourth
 Why 'hello world'?
 https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
